@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # 2019.01 - molu8bits (at) gmail (dot) com
 # modsecurity-parser.py
 # Script to analyze modsecurity audit log and present outputs as:
